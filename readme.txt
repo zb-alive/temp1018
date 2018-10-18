@@ -1,4 +1,4 @@
 hello,git!
-first update
-two
-i am feature 1 ,use my word!
+first delete
+onet
+i am feature og 1 ,use my word!
