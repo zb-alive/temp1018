@@ -1,3 +1,4 @@
 hello,git!
 first update
-two 
+two
+i am feature 1 ,use my word!
